@@ -17,7 +17,7 @@ textarea:focus {
 }
 
 a,
-nav button {
+nav, button {
     text-decoration: none;
     color: #000;
     background-color: transparent;
@@ -29,7 +29,7 @@ nav button {
 }
 
 a:hover
-nav button:hover {
+nav, button:hover {
     color: #bbb;
 }
 
